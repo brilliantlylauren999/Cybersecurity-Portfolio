@@ -22,3 +22,8 @@ One of the URLs (http://fakebank.thm/bank-deposit) is a website where I was able
 * VirusTotal
 * HIBP
 
+---
+
+### Learned about vulnerabilities and exploits, including:
+* NVD website
+* CVE
